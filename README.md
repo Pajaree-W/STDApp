@@ -17,3 +17,8 @@ Student Manage Application is a student management program. The Student Manage A
 * Course information
 * Student score information  
 All information will be stored within all databases. And the main page of the program will tell the total number of students And the total number of courses available.
+
+
+# How to run STDapp
+
+STDapp use netbean to run & compile.
