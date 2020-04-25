@@ -1,9 +1,9 @@
 # STDapp
 
-STDapp is Student Manage Applicatio.
-This is my project for Programming Fundamentals II (03603112).
-My name is Pajaree Wiyasing (6130300549).
-Kasetsart University.
+STDapp is Student Manage Applicatio.  
+This is my project for Programming Fundamentals II (03603112).  
+My name is Pajaree Wiyasing (6130300549).  
+Kasetsart University.  
 
 # How about STDapp
 
@@ -13,5 +13,5 @@ Student Manage Application is a student management program. The Student Manage A
 
 * Student information
 * Course information
-* Student score information
+* Student score information  
 All information will be stored within all databases. And the main page of the program will tell the total number of students And the total number of courses available.
