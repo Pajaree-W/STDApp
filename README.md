@@ -8,3 +8,10 @@ Kasetsart University.
 # How about STDapp
 
 Student Manage Application is a student management program. The Student Manage Application program provides a certain level of security because it requires login to be able to use the program. Suitable for teachers Or professors who will manage their students, all data will be stored within all databases.
+
+# STDapp components
+
+* Student information
+* Course information
+* Student score information
+All information will be stored within all databases. And the main page of the program will tell the total number of students And the total number of courses available.
