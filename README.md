@@ -21,4 +21,4 @@ All information will be stored within all databases. And the main page of the pr
 
 # How to run STDapp
 
-STDapp use netbean to run & compile.
+STDapp use netbean to run & compile download >> "STDapp Project.zip" 
