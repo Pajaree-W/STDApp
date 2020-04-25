@@ -1,3 +1,3 @@
-#How about STDApp
+#How about STDapp
 
-Student Manage Application
+STDapp is Student Manage Application 
